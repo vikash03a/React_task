@@ -96,7 +96,7 @@ export default class Todo extends Component {
     return (
       <div>
         <div>
-          <h2>ToDo List</h2>
+          <h2>MyTask</h2>
         </div>
 
         <div>
